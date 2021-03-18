@@ -24,3 +24,7 @@ Après, vous serez donc en mesure de comprendre un peu mieux ce module, et qui s
 Bon code à tous, et bonne journée :) 
 
 
+**Aperçu du projet final** 
+
+![Image](img-readme/cookie-clicker.png)
+
